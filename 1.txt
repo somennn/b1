@@ -36,17 +36,11 @@
 {"name":"cm1","urls":["http://epg.112114.xyz/douyu/427397"]},{"name":"cm2","urls":["http://epg.112114.xyz/douyu/1360303"]},{"name":"cm3","urls":["http://epg.112114.xyz/douyu/5526740"]},{"name":"cm4","urls":["http://epg.112114.xyz/douyu/6148650"]},{"name":"cm5","urls":["http://epg.112114.xyz/douyu/9352559"]},{"name":"cm6","urls":["http://epg.112114.xyz/douyu/9676056"]},{"name":"cm7","urls":["http://epg.112114.xyz/douyu/9679105"]},{"name":"cm8","urls":["http://epg.112114.xyz/douyu/9719586"]},{"name":"cm9","urls":["http://epg.112114.xyz/douyu/9751418"]},{"name":"cm10","urls":["http://epg.112114.xyz/douyu/9770449"]},{"name":"cm11","urls":["http://epg.112114.xyz/douyu/9805480"]},{"name":"cm12","urls":["http://epg.112114.xyz/douyu/9837104"]},{"name":"cmh13","urls":["http://epg.112114.xyz/douyu/10018770"]},{"name":"cm14","urls":["http://epg.112114.xyz/douyu/10025698"]},{"name":"cm15","urls":["http://epg.112114.xyz/douyu/10118209"]},{"name":"cm16","urls":["http://epg.112114.xyz/huya/24271955"]},{"name":"cm17","urls":["http://epg.112114.xyz/douyu/9213072"]},{"name":"cm18","urls":["http://epg.112114.xyz/douyu/6146690"]},{"name":"cm19","urls":["http://epg.112114.xyz/douyu/214827"]},{"name":"cm20","urls":["http://epg.112114.xyz/douyu/10746386"]},{"name":"cm21","urls":["http://epg.112114.xyz/douyu/9650608"]},{"name":"cm22","urls":["http://epg.112114.xyz/douyu/10206781"]},{"name":"nt1","urls":["http://epg.112114.xyz/douyu/231464"]},{"name":"nt2","urls":["http://epg.112114.xyz/douyu/329667"]},{"name":"nt3","urls":["http://epg.112114.xyz/douyu/3377456"]},{"name":"nt4","urls":["http://epg.112114.xyz/douyu/8017332"]},{"name":"nt5","urls":["http://epg.112114.xyz/douyu/8759139"]},{"name":"nt6","urls":["http://epg.112114.xyz/douyu/9229756"]},{"name":"nt7","urls":["http://epg.112114.xyz/douyu/9827333"]},{"name":"nt8","urls":["http://epg.112114.xyz/douyu/9861462"]},{"name":"nt9","urls":["http://epg.112114.xyz/douyu/10277285"]}
       ]
     }, 
-    {
-      "group": "redirect",
-      "channels": [
-        {
+        {"group": "redirect","channels": [ {
           "name": "live",
-          "urls": [
-            "proxy://do=live&type=txt&ext=aHR0cDovL2hvbWUuanVuZGllLnRvcDo4MS9DYXQvdHYvbGl2ZS50eHQ="
-          ]
-        }
-      ]
-    }
+          "urls": ["proxy://do=live&type=txt&ext=aHR0cDovL2hvbWUuanVuZGllLnRvcDo4MS9DYXQvdHYvbGl2ZS50eHQ=" ]
+        } ]
+     }
   ],
  
   "sites": [
