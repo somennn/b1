@@ -4,6 +4,38 @@
  "spider": "https://gitee.com/hlcodes/owntest/raw/master/jar/1.jar",
  //"spider": "https://gitee.com/Augustyu/tvbox/raw/master/jh.jar",
   "lives": [
+  
+   {
+      "group": "自定义",
+      "channels":[
+     {"name":"虎牙音乐","urls":["http://epg.112114.xyz/huya/20432223"]},{"name":"音乐石榴","urls":["http://epg.112114.xyz/huya/17091681"]},{"name":"民谣经典","urls":["http://epg.112114.xyz/huya/21241831"]},{"name":"经典好歌","urls":["http://epg.112114.xyz/huya/20616876"]},{"name":"热门音乐","urls":["http://epg.112114.xyz/douyu/3870925"]},{"name":"音乐演唱会","urls":["http://epg.112114.xyz/douyu/7537296"]},{"name":"七师傅韩歌轮播","urls":["http://epg.112114.xyz/douyu/17732"]},{"name":"音乐快斗","urls":["http://epg.112114.xyz/douyu/8324627"]},{"name":"Apink音乐","urls":["http://epg.112114.xyz/douyu/123351"]},{"name":"航拍音乐","urls":["http://epg.112114.xyz/douyu/58202844"]},{"name":"下饭音乐","urls":["http://epg.112114.xyz/douyu/8661966"]},{"name":"纯音乐1","urls":["http://epg.112114.xyz/douyu/4904136"]},{"name":"纯音乐2","urls":["http://epg.112114.xyz/douyu/9262938"]},{"name":"纯音乐3","urls":["http://epg.112114.xyz/douyu/2602291"]},{"name":"纯音乐4","urls":["http://epg.112114.xyz/douyu/7468709"]},{"name":"纯音乐5","urls":["http://epg.112114.xyz/douyu/9970646"]},{"name":"2021年度音乐","urls":["http://epg.112114.xyz/douyu/10469362"]},{"name":"网红神曲","urls":["http://epg.112114.xyz/douyu/956809"]},{"name":"音乐Wu哥","urls":["http://epg.112114.xyz/douyu/8667755"]},{"name":"音乐猛抬头","urls":["http://epg.112114.xyz/douyu/8666105"]},{"name":"热门音乐","urls":["http://epg.112114.xyz/douyu/3870925"]},{"name":"钢琴1","urls":["http://epg.112114.xyz/douyu/24791"]},{"name":"钢琴2","urls":["http://epg.112114.xyz/douyu/9642241"]},{"name":"武林外传","urls":["http://epg.112114.xyz/huya/21059589"]},{"name":"龙门","urls":["http://epg.112114.xyz/huya/11352874"]},{"name":"医馆笑传","urls":["http://epg.112114.xyz/huya/11352891"]},{"name":"岳云鹏相声","urls":["http://epg.112114.xyz/huya/11342437"]},{"name":"今晚80后脱口秀","urls":["http://epg.112114.xyz/huya/11352961"]},{"name":"绝地求生1","urls":["http://epg.112114.xyz/douyu/3652542"]},{"name":"绝地求生2","urls":["http://epg.112114.xyz/douyu/3652542"]},{"name":"绝地求生3","urls":["http://epg.112114.xyz/huya/21843316"]},{"name":"仙剑七1","urls":["http://epg.112114.xyz/huya/25875604"]},{"name":"仙剑七2","urls":["http://epg.112114.xyz/huya/23783156"]},{"name":"和平精英1","urls":["http://epg.112114.xyz/huya/11650231"]},{"name":"和平精英2","urls":["http://epg.112114.xyz/huya/14433649"]},{"name":"和平精英3","urls":["http://epg.112114.xyz/huya/326127"]},{"name":"王者荣耀1","urls":["http://epg.112114.xyz/huya/147350"]},{"name":"王者荣耀2","urls":["http://epg.112114.xyz/huya/774810"]},{"name":"王者荣耀3","urls":["http://epg.112114.xyz/douyu/1863767"]},{"name":"穿越火线1","urls":["http://epg.112114.xyz/douyu/8542577"]},{"name":"穿越火线2","urls":["http://epg.112114.xyz/douyu/605964"]},{"name":"厚大法考","urls":["http://315600.xyz/jk/dl/douyu.php?id=8805"]},{"name":"TED超级演讲家","urls":["http://epg.112114.xyz/douyu/9496384"]},{"name":"看宇宙","urls":["http://315600.xyz/jk/dl/douyu.php?id=9412981"]},{"name":"FTV","urls":["http://lb.streaming.sk/fashiontv/stream/chunklist.m3u8"]},{"name":"hdfashion","urls":["http://95.67.47.115/hls/hdfashion_ua_hi/index.m3u8"]},{"name":"imodeTV","urls":["http://juyunlive.juyun.tv/live/24950198.m3u8"]},{"name":"时尚","urls":["http://125.210.152.21:9120/live/FSYY.m3u8"]},{"name":"高清娱乐","urls":["http://125.210.152.21:9120/live/GQYL.m3u"]},{"name":"CCTV1","urls":["https://cctvtxyh5c.liveplay.myqcloud.com/live/cdrmcctv1_1_md.m3u8"]}
+      ]
+    }, 
+     {
+      "group": "自定义2",
+      "channels":[
+     {"name":"【开心麻花】沈腾、马丽经典小品专场","urls":["http://epg.112114.xyz/douyu/10153463"]},
+{"name":"经典小品相声乐不停","urls":["http://epg.112114.xyz/douyu/9273031"]},
+{"name":"经典小品，下饭必备","urls":["http://epg.112114.xyz/douyu/9067836"]},
+{"name":"小品上新","urls":["http://epg.112114.xyz/douyu/1486165"]},
+{"name":"科普公开课","urls":["http://epg.112114.xyz/douyu/9498354"]},
+{"name":"打开宇宙的未知","urls":["http://epg.112114.xyz/douyu/9385288"]},
+{"name":"UP主最新视频合集","urls":["http://epg.112114.xyz/douyu/10074407"]},
+{"name":"阿杜游中国的直播间","urls":["http://epg.112114.xyz/douyu/9474441"]},
+{"name":"狄仁杰","urls":["http://epg.112114.xyz/douyu/674441"]},
+{"name":"吐槽","urls":["http://epg.112114.xyz/douyu/9236042"]},
+{"name":"哈里波特","urls":["http://epg.112114.xyz/douyu/8814650"]},
+{"name":"科学黑历史","urls":["http://epg.112114.xyz/douyu/9317739"]}
+      ]
+    },   
+ 
+     {
+      "group": "cm",
+      "channels": [
+       
+{"name":"cm1","urls":["http://epg.112114.xyz/douyu/427397"]},{"name":"cm2","urls":["http://epg.112114.xyz/douyu/1360303"]},{"name":"cm3","urls":["http://epg.112114.xyz/douyu/5526740"]},{"name":"cm4","urls":["http://epg.112114.xyz/douyu/6148650"]},{"name":"cm5","urls":["http://epg.112114.xyz/douyu/9352559"]},{"name":"cm6","urls":["http://epg.112114.xyz/douyu/9676056"]},{"name":"cm7","urls":["http://epg.112114.xyz/douyu/9679105"]},{"name":"cm8","urls":["http://epg.112114.xyz/douyu/9719586"]},{"name":"cm9","urls":["http://epg.112114.xyz/douyu/9751418"]},{"name":"cm10","urls":["http://epg.112114.xyz/douyu/9770449"]},{"name":"cm11","urls":["http://epg.112114.xyz/douyu/9805480"]},{"name":"cm12","urls":["http://epg.112114.xyz/douyu/9837104"]},{"name":"cmh13","urls":["http://epg.112114.xyz/douyu/10018770"]},{"name":"cm14","urls":["http://epg.112114.xyz/douyu/10025698"]},{"name":"cm15","urls":["http://epg.112114.xyz/douyu/10118209"]},{"name":"cm16","urls":["http://epg.112114.xyz/huya/24271955"]},{"name":"cm17","urls":["http://epg.112114.xyz/douyu/9213072"]},{"name":"cm18","urls":["http://epg.112114.xyz/douyu/6146690"]},{"name":"cm19","urls":["http://epg.112114.xyz/douyu/214827"]},{"name":"cm20","urls":["http://epg.112114.xyz/douyu/10746386"]},{"name":"cm21","urls":["http://epg.112114.xyz/douyu/9650608"]},{"name":"cm22","urls":["http://epg.112114.xyz/douyu/10206781"]},{"name":"nt1","urls":["http://epg.112114.xyz/douyu/231464"]},{"name":"nt2","urls":["http://epg.112114.xyz/douyu/329667"]},{"name":"nt3","urls":["http://epg.112114.xyz/douyu/3377456"]},{"name":"nt4","urls":["http://epg.112114.xyz/douyu/8017332"]},{"name":"nt5","urls":["http://epg.112114.xyz/douyu/8759139"]},{"name":"nt6","urls":["http://epg.112114.xyz/douyu/9229756"]},{"name":"nt7","urls":["http://epg.112114.xyz/douyu/9827333"]},{"name":"nt8","urls":["http://epg.112114.xyz/douyu/9861462"]},{"name":"nt9","urls":["http://epg.112114.xyz/douyu/10277285"]}
+      ]
+    }, 
     {
       "group": "redirect",
       "channels": [
