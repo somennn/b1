@@ -37,7 +37,7 @@
       ]
     }, 
     {
-      "group": "redirect",
+      "group": "redirect3",
       "channels": [
         {
           "name": "live",
