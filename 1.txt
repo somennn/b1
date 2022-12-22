@@ -73,6 +73,7 @@
  {"name":"聚合01","type":3,"url":"Demo"},
 {"name":"并发02","type":2,"url":"Parallel"},
 {"name":"轮询03","type":2,"url":"Sequence"},
+{"name":"Q1解析","type":1,"url":"https://parse.ikunfk.cc/parse/sign/8698eafb816d87f28262c8e280c71078?url=","header": {"User-Agent":"Mozilla/5.0"}},
 {"name":"备用解析01","type":0,"url":"https://www.nxflv.com/?url="},
 {"name":"备用解析02","type":0,"url":"https://okjx.cc/?url="},
 {"name":"ggzg","type":1,"url":"http://jx.fuqizhishi.com:63/API.php?appkey=feimao&url="},
